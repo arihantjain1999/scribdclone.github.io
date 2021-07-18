@@ -1,0 +1,22 @@
+.logo1 {
+    position: absolute;
+    margin: 80px 0 0 20px;
+}
+
+.bgi {
+    background-image: linear-gradient(to right, #02283f, rgba(8, 146, 146, 0.1)), url(1182202-bg-full-netflix-grid-v2.desktop.jpg);
+    width: 100%;
+    height: 100vh;
+}
+.logo {
+    float: left;
+    width: 30px;
+    margin-left: 1rem;
+}
+.td1{
+    text-align: left;
+    font-size: 15px;
+}
+th{
+    font-size: small;
+}

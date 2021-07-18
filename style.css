@@ -1,0 +1,240 @@
+* {
+    top: 0%;
+    margin: 0%;
+}
+
+.table {
+    margin: 20px;
+    border-collapse: collapse;
+    width: 75%;
+    height: 300px;
+    text-align: center; 
+}
+th ,td{
+    margin: 20px;
+    padding: 5px 0 0 20px;
+    border-bottom: 2px solid rgb(170, 168, 168);
+}
+th{
+    font-size: x-large;
+}
+.logo {
+    width: 15px;
+}
+.td1{
+    text-align: left;
+    font-size: 15px;
+    width: 300px;
+}
+#a{
+    color: #1e7b85;
+}
+#b{
+    color: #1e7b85;
+}
+#c{
+    color: #1e7b85;
+}
+#d{
+    color: #1e7b85;
+}
+#e{
+    color: #1e7b85;
+}
+#f{
+    color: #1e7b85;
+}
+.prise{
+    color: #1e7b85;
+    font-size: 30px;
+}
+.prise1{
+    color: gray;
+    font-size: 20px;
+}
+.navbar {
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+    background-color: #1e7b85;
+    border: none;
+    height: 50px;
+    cursor: pointer;
+}
+
+.logo {
+    float: left;
+    width: 30px;
+    margin-left: 13rem;
+
+}
+
+.logot {
+    font-size: xx-large;
+    color: white;
+    float: left;
+    margin-left: 3px;
+}
+
+.bgi {
+    background-image: linear-gradient(to right, #02283f, rgba(8, 146, 146, 0.1)), url(1182202-bg-full-netflix-grid-v2.desktop.jpg);
+    width: 100%;
+    height: 80vh;
+}
+
+.slogan {
+    color: white;
+    font-size: 60px;
+}
+
+.slogan1 {
+    color: white;
+    font-size: 60px;
+    padding-top: 0;
+}
+
+.slogan2 {
+    color: white;
+    margin-top: 10px;
+}
+
+.logo1 {
+    position: absolute;
+    margin: 150px 0 0 200px;
+}
+
+.item {
+    background-color: #001927;
+}
+
+.tryus {
+    width: 250px;
+    font-size: larger;
+    margin: 10px 0 0 0;
+    border-radius: 5px;
+    border: none;
+    color: #001927;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.tryus:hover {
+    background-color: rgb(226, 225, 225);
+
+}
+
+.itemlogo1 {
+    width: 50px;
+    color: #1e7b85;
+}
+
+#a {
+    color: #1e7b85;
+}
+
+#b {
+    color: #1e7b85;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.itemlogo {
+    margin: 20px;
+}
+
+.itemlogo {
+    display: flex;
+    color: aliceblue;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin: 60px 0 60px 30px;
+}
+
+.li {
+    font-size: 12px;
+    list-style: none;
+    margin: 20px;
+    color: rgb(100, 97, 97);
+    cursor: pointer;
+}
+
+.ul {
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    background-color: #f8f9fd;
+    color: rgb(65, 63, 63);
+    text-align: center;
+    font-size: 12px;
+    height: 30vh;
+}
+
+.ul1 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.li1 {
+    list-style: none;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.ul2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.li2 {
+    list-style: none;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.offer {
+    text-align: center;
+    color: rgb(65, 63, 63);
+    font-size: 13px;
+    margin: 20px;
+    width: 80%;
+}
+.best{
+    background-color: #5a1d41;
+    padding: 20px;
+}
+.tryus1{
+    margin: 10px;
+    width: 250px;
+    font-size: larger;
+    margin: 10px 0 0 0;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    background-color: #1e7b85;
+}
+.offer1{
+    color: #e4c5d7;
+    text-align: center;
+    font-size: 12px;
+    margin: 3px;
+}
+.center{
+    text-align: center;
+    color: white;
+}
+.xyz{
+display: flex;
+justify-content: center;}
